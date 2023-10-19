@@ -1,7 +1,11 @@
 p{
     color: brown;
+    text-align: justify;
 }
 
 h1{
     color: red;
+    text-align: center;
+    font-style: italic;
+    text-decoration: overline underline;
 }
