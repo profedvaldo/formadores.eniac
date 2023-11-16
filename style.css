@@ -12,7 +12,7 @@ h1{
     font-size: 40px;
 }
 
-img{
+#imgtopo{
     border: solid 50px;
     border-color: red;
     padding: 50px;
@@ -21,6 +21,10 @@ img{
     min-width: 50%;
 
 
+}
+#banner{
+    border: solid 50px;
+    border-color: green; 
 }
 
 #paragrafo1{
