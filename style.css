@@ -17,6 +17,8 @@ img{
     border-color: red;
     padding: 50px;
     background-color: aquamarine;
+    max-width: 75%;
+    min-width: 50%;
 
 
 }
