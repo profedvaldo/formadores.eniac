@@ -25,6 +25,7 @@ h1{
 #banner{
     border: solid 50px;
     border-color: green; 
+    border-radius: 10px;
 }
 
 #paragrafo1{
