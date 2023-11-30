@@ -50,3 +50,10 @@ h1{
     background-color: #cccccc;
     padding: 5%;
 }
+header{
+    padding: 20px;
+    background-color: aquamarine;
+    border-bottom: red 10px solid;
+    color:red;
+    font-size: 35px;
+}
